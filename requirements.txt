@@ -1,0 +1,1 @@
+torch==2.1.2\ntorchaudio==2.1.2\ntorchvision==0.16.2\nTTS==0.21.3\nnumpy==1.24.3\nscipy==1.11.4\nlibrosa==0.10.1\nsoundfile==0.12.1\nmatplotlib==3.8.2\ntensorboard==2.15.1\npyyaml==6.0.1\npydantic==2.5.1\ninfllect==7.0.0\nunidecode==1.3.0\ng2p-en==2.1.0\nnum2words==0.5.13\ntqdm==4.66.1\njoblib==1.3.2
